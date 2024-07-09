@@ -1,0 +1,41 @@
+.nav-logo {
+  width: 55px;
+}
+.nav-link:hover {
+  background-color: rgb(230, 126, 34);
+  color: aliceblue;
+  border-radius: 2%;
+  transition: 10ms;
+}
+.home-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wheel {
+  width: 100%;
+}
+
+.card {
+  border-radius: 0;
+  height: 250px;
+}
+
+/* our services */
+.service-container {
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: -100px;
+}
+
+/* about us */
+.aboutUs {
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
